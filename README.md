@@ -72,6 +72,7 @@
 - [Brandwatch](https://www.brandwatch.com/) - Social listening and consumer intelligence including TikTok.
 - [Social Blade](https://socialblade.com/) - Public statistics and growth tracking for TikTok creator accounts.
 - [HypeAuditor](https://hypeauditor.com/) - TikTok influencer analytics with audience quality and authenticity scores.
+- [TKMetrics](https://tkmetrics.com/) - TikTok creator stats, hashtag trends and earnings estimates from public data.
 
 ## Hashtag & Keyword Research
 
